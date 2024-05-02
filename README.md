@@ -1,6 +1,6 @@
 # Image Classification Using Convolutional Neural Network (CNN)
  - In this project I tried to classify small images cifar10 dataset from tensorflow keras datasets. There are total 10 classes as shown below and we will use CNN for classification.
-   ![Image](https://raw.githubusercontent.com/codebasics/deep-learning-keras-tf-tutorial/0981fe55db7a7abf19ff1d852d9a59153289641e/16_cnn_cifar10_small_image_classification/small_images.jpg)
+ - ![Image](https://raw.githubusercontent.com/codebasics/deep-learning-keras-tf-tutorial/0981fe55db7a7abf19ff1d852d9a59153289641e/16_cnn_cifar10_small_image_classification/small_images.jpg)
      
 ## Why Convolutional Neural Network(CNN) instead of the regular Artificial Neural Network(ANN)?
  - Regular neural networks struggle with images because of massive data and no built-in understanding of image structure. Convolutional Neural Networks (CNNs) are designed specifically 
