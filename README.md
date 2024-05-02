@@ -25,7 +25,7 @@
  6. Or you can download the `cnn_cifar10.ipynb` Notebook from the repository, upload the notebook to [Google Colab](https://colab.research.google.com/) then run all the cells in the `cnn_cifar10.ipynb` Notebook
 
 ## Acknowledgments
- - I would like to thank [Dhaval Patel](linkedin.com/in/dhavalsays) and [codebasics](https://www.youtube.com/@codebasics)
+ - I would like to thank [Dhaval Patel](https://www.linkedin.com/in/dhavalsays) and [codebasics](https://www.youtube.com/@codebasics)
    
 ## Contact
  - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
